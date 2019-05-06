@@ -1,6 +1,6 @@
 {
-  "name": "email-validation",
-  "version": "1.0.0",
+  "name": "email-validation-pro",
+  "version": "1.0.1",
   "description": "Check if email is valid",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baralmanish/push-data-to-url.git"
+    "url": "git+https://github.com/baralmanish/validateEmail.git"
   },
   "bugs": {
-    "url": "https://github.com/baralmanish/push-data-to-url/issues"
+    "url": "https://github.com/baralmanish/validateEmail/issues"
   },
-  "homepage": "https://github.com/baralmanish/push-data-to-url#readme",
+  "homepage": "https://github.com/baralmanish/validateEmail#readme",
   "keywords": [
     "push data to url",
     "npm",

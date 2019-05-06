@@ -9,7 +9,6 @@ package-lock.json
 yarn.lock
 
 # project files
-src
 examples
 CHANGELOG.md
 .editorconfig
