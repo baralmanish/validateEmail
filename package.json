@@ -1,6 +1,6 @@
 {
   "name": "email-validation-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check if email is valid",
   "main": "index.js",
   "scripts": {
