@@ -5,5 +5,12 @@ This plugin checks following things:
 - valid tld
 - valid email host
 
+## Implementation
+```javascript
+var validate = require('email-validation-pro')
+validate.email(email); // check without email host
+validate.email(email, true); // check with email host
+```
+
 ## Test
 `yarn test`
