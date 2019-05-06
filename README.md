@@ -6,7 +6,7 @@ This plugin checks following things:
 - valid email host
 
 ## Installation
-- `npm npm i email-validation-pro`
+- `npm i email-validation-pro`
 - `yarn add email-validation-pro`
 
 ## Implementation
